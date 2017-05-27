@@ -1,14 +1,81 @@
 d:assets:0:application/unknown
-d:resources:0:application/unknown
-b:resources/Credits:100:application/unknown
-b:resources/Help:849:application/unknown
+i:badlogic.jpg:68465:image/jpeg
+d:bobby_data:0:application/unknown
+d:bobby_data/buildings:0:application/unknown
+i:bobby_data/buildings/building1.png:2635:image/png
+d:bobby_data/bushes:0:application/unknown
+i:bobby_data/bushes/bush.png:2257:image/png
+d:bobby_data/characters:0:application/unknown
+i:bobby_data/characters/bobby - Copy (10).png:1358:image/png
+i:bobby_data/characters/bobby - Copy (2).png:1358:image/png
+i:bobby_data/characters/bobby - Copy (3).png:1358:image/png
+i:bobby_data/characters/bobby - Copy (4).png:1358:image/png
+i:bobby_data/characters/bobby - Copy (5).png:1358:image/png
+i:bobby_data/characters/bobby - Copy (6).png:1358:image/png
+i:bobby_data/characters/bobby - Copy (7).png:1358:image/png
+i:bobby_data/characters/bobby - Copy (8).png:1358:image/png
+i:bobby_data/characters/bobby - Copy (9).png:1358:image/png
+i:bobby_data/characters/bobby - Copy.png:1358:image/png
+i:bobby_data/characters/bobby.png:1358:image/png
+i:bobby_data/characters/grendell - Copy (10).png:15808:image/png
+i:bobby_data/characters/grendell - Copy (2).png:15808:image/png
+i:bobby_data/characters/grendell - Copy (3).png:15808:image/png
+i:bobby_data/characters/grendell - Copy (4).png:15808:image/png
+i:bobby_data/characters/grendell - Copy (5).png:15808:image/png
+i:bobby_data/characters/grendell - Copy (6).png:15808:image/png
+i:bobby_data/characters/grendell - Copy (7).png:15808:image/png
+i:bobby_data/characters/grendell - Copy (8).png:15808:image/png
+i:bobby_data/characters/grendell - Copy (9).png:15808:image/png
+i:bobby_data/characters/grendell - Copy.png:15808:image/png
+i:bobby_data/characters/grendell.png:15808:image/png
+i:bobby_data/characters/richard - Copy (10).png:16102:image/png
+i:bobby_data/characters/richard - Copy (2).png:16102:image/png
+i:bobby_data/characters/richard - Copy (3).png:16102:image/png
+i:bobby_data/characters/richard - Copy (4).png:16102:image/png
+i:bobby_data/characters/richard - Copy (5).png:16102:image/png
+i:bobby_data/characters/richard - Copy (6).png:16102:image/png
+i:bobby_data/characters/richard - Copy (7).png:16102:image/png
+i:bobby_data/characters/richard - Copy (8).png:16102:image/png
+i:bobby_data/characters/richard - Copy (9).png:16102:image/png
+i:bobby_data/characters/richard - Copy.png:16102:image/png
+i:bobby_data/characters/richard.png:16102:image/png
+d:bobby_data/clouds:0:application/unknown
+i:bobby_data/clouds/cloud.png:3385:image/png
+t:bobby_data/data.json:79:application/unknown
+d:bobby_data/grounds:0:application/unknown
+i:bobby_data/grounds/ground.png:1342:image/png
+d:bobby_data/obstacles:0:application/unknown
+i:bobby_data/obstacles/pipe.png:1842:image/png
+d:bobby_data/sfx:0:application/unknown
+a:bobby_data/sfx/coin.wav:37470:audio/x-wav
+a:bobby_data/sfx/hit.wav:72294:audio/x-wav
+a:bobby_data/sfx/jump.wav:14166:audio/x-wav
+d:bobby_data/skin:0:application/unknown
+t:bobby_data/skin/font-export.fnt:9726:application/unknown
+t:bobby_data/skin/font-game-over-export.fnt:10187:application/unknown
+t:bobby_data/skin/font-get-ready-export.fnt:10187:application/unknown
+t:bobby_data/skin/font-score-export.fnt:10122:application/unknown
+t:bobby_data/skin/font-summary-export.fnt:9787:application/unknown
+t:bobby_data/skin/font-title-export.fnt:10178:application/unknown
+t:bobby_data/skin/skin.atlas:2530:application/unknown
+t:bobby_data/skin/skin.json:2397:application/unknown
+i:bobby_data/skin/skin.png:353025:image/png
+t:data.json:79:application/unknown
+t:java-stacktrace.txt:3471:text/plain
+d:sfx:0:application/unknown
+a:sfx/coin.wav:37470:audio/x-wav
+a:sfx/hit.wav:72294:audio/x-wav
+a:sfx/jump.wav:14166:audio/x-wav
 d:skin:0:application/unknown
-t:skin/font-export.fnt:34665:application/unknown
-t:skin/font-over-export.fnt:34788:application/unknown
-t:skin/font-pressed-export.fnt:34794:application/unknown
-t:skin/neon-ui.atlas:6278:application/unknown
-t:skin/neon-ui.json:8062:application/unknown
-i:skin/neon-ui.png:112333:image/png
+t:skin/font-export.fnt:9726:application/unknown
+t:skin/font-game-over-export.fnt:10187:application/unknown
+t:skin/font-get-ready-export.fnt:10187:application/unknown
+t:skin/font-score-export.fnt:10122:application/unknown
+t:skin/font-summary-export.fnt:9787:application/unknown
+t:skin/font-title-export.fnt:10178:application/unknown
+t:skin/skin.atlas:2530:application/unknown
+t:skin/skin.json:2141:application/unknown
+i:skin/skin.png:353083:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5162:application/unknown
