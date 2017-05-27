@@ -1,0 +1,23 @@
+Hello new User!!
+This is a 2D AstroPhysical simulator, it's made to be artistic not realistic
+although it uses the Newtonian Gravity to work, here are all the controls
+Hope you like it!!
+
+Mouse Click - put a dot on current position (all windows have to be closed)
+
+A - Switch persistent mode (Very Cool)
+R - Resets Everything
+E - Inverts Gravity
+G - Switch between realistic gravity and non realistic (by default, the simulator uses realistic mode)
+C - Save the current Simulation
+B - Loads the simulation
+J - Generates a map ditributing hundreads of planets in a circle shape
+ESC - Exits the simulator
+
+Slider - Change Color Pallette for lines
+
+For Experts
+If you are running on windows 7/8/10 you can open the simulator in windowed mode by writing in the cmd:
+ReDust.jar -w
+
+There are going to be more features in the future!
